@@ -21,6 +21,7 @@
  ** ENTER
 
 ![graph](7.png)
+ 
  ** ENTER (till the end of the license)
 
 ![graph](8.png)
@@ -56,3 +57,5 @@
  ** run => python3 disease_simulation.py --vis -s exercise4_maps/scenario1.scn
 
 ![graph](17.png)
+
+![graph](16.png)
