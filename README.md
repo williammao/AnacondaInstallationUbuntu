@@ -1,6 +1,25 @@
 ## Download & install Anaconda
-
+* anaconda.org => Download Anaconda
 ![graph](1.png)
+
+* Download the python 3.6 version. Normally "64-Bit(x86)Installer(551MB)" for ubuntu
+![graph](3.png)
+
+* Save file
+![graph](4.png)
+![graph](5.png)
+
+* Open the terminal and navigate to the folder where you store the file
+![graph](6.png)
+
+* run => bash file_name.sh
+![graph](7.png)
+![graph](8.png)
+![graph](9.png)
+![graph](10.png)
+![graph](11.png)
+
+* 
 
 ### Part 2: `health_agents.py` — 20 Marks
 
